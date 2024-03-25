@@ -42,9 +42,9 @@ After creating the queries based on the requirements , analysed the data , for u
   - Northern Mariana Islands
   - American Samoa
   - Marshall Islands
-- Death count due to disorder - 92062914
-- Death count due to disease - 1350247885
-- Death count due to nutients - 25823917
+- Death count due to disorder - 9,20,62,914
+- Death count due to disease - 1,35,02,47,885
+- Death count due to nutients - 2,58,23,917
 - Top 10 Countries based on the highest deaths occured due to disorders
   - India
   - Pakistan
