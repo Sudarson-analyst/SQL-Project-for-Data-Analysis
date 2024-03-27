@@ -149,11 +149,11 @@ After creating the queries based on the requirements , analysed the data , for u
       - Bermuda
       - Greenland
       - Kuwait
-    - For these below Countries we need to host many medicamps to create awareness of HIV/AIDS
+  - For these below Countries we need to host many medicamps to create awareness of HIV/AIDS
       - South Africa
       - Kenya
       - Tanzania
-    - To minimise the death count in overall these below Countries are in high critical so need to focus on these countries with hospitality,nutrition products and camp that will create awareness about the health - China and india
+  - To minimise the death count in overall these below Countries are in high critical so need to focus on these countries with hospitality,nutrition products and camp that will create awareness about the health - China and india
       
   ### Limitation
   As the analysis is done for sample data , the real time recommendation and insights differs from the original . The accuracy for insights of this sample data is also negligible.
