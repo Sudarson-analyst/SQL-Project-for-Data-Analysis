@@ -18,7 +18,7 @@ Based on the Problem total of 20 queries have been created in the MySQL , based 
 After creating the queries based on the requirements , analysed the data , for understanding - the result of each query is listed as an hint which is usefull for understanding the conclusion
 
 - Countries/Territory name where the death of people occured
-- No of countries/territories is 204
+- No of countries/territories is 205
 - Countries name and their death of people count
 - Top 10 countries with high death
   - China
